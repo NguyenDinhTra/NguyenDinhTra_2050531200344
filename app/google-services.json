@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975995385367",
+    "project_id": "nguyendinhtra-cayxanh",
+    "storage_bucket": "nguyendinhtra-cayxanh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975995385367:android:0e74b90d605966af5c8e52",
+        "android_client_info": {
+          "package_name": "com.example.nguyendinhtra_cayxanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975995385367-89l99ji7nu4msf745pcf6kvb7pbg94jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgbYK08mD2vIBUHeJhCnarwsxD12pzyOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975995385367-89l99ji7nu4msf745pcf6kvb7pbg94jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
